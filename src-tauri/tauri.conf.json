@@ -27,6 +27,9 @@
   },
   "bundle": {
     "active": true,
+    "android": {
+      "versionCode": 20804
+    },
     "targets": ["nsis"],
     "icon": [
       "icons/32x32.png",
